@@ -1,0 +1,13 @@
+{
+  "appId": "com.pdvreporter.app",
+  "appName": "PDV Reporter",
+  "webDir": "dist/public",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
